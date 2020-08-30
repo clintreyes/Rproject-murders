@@ -1,0 +1,25 @@
+{
+    "id": "42AAC157",
+    "path": "~/courses/edX_statistics/projects/murders/download-data.r",
+    "project_path": "download-data.r",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598792260029.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "3,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1598792278,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598792278999,
+    "read_only": false,
+    "read_only_alternatives": []
+}

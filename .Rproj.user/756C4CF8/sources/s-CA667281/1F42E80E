@@ -1,0 +1,25 @@
+{
+    "id": "1F42E80E",
+    "path": "~/courses/edX_statistics/projects/murders/report.Rmd",
+    "project_path": "report.Rmd",
+    "type": "r_markdown",
+    "hash": "3020357550",
+    "contents": "",
+    "dirty": false,
+    "created": 1598794252130.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "33,28",
+        "scrollLine": "19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1598794345,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598794345800,
+    "read_only": false,
+    "read_only_alternatives": []
+}
